@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-	<ModInfo>
-        <Name value="Parts-Increment" />
-        <!-- <DisplayName value="Parts Increment" /> -->
-        <Description value="Changes the percentage increment on the Parts Spawn Chance combobox in the Prefab Editor." />
-        <Author value="ZZTong" />
-        <Version value="21.0.001" />
-        <Website value="None" />
-        <!-- Dependencies: None -->
-    </ModInfo>
+    <Name value="Parts-Increment" />
+    <DisplayName value="Parts Increment" />
+    <Description value="Changes the percentage increment on the Parts Spawn Chance combobox in the Prefab Editor." />
+    <Author value="ZZTong" />
+    <Version value="21.0.001" />
+    <Website value="None" />
+    <!-- Dependencies: None -->
 </xml>
